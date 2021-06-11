@@ -1,1 +1,1 @@
-# summer_training_tasks
+# summer_training_task-Image_manipulation
