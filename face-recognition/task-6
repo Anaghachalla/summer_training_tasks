@@ -1,0 +1,11 @@
+Task 06:
+
+Create a program that performs below mentioned tasks upon recognizing a particular face. 
+
+When it recognize a person's face, then - 
+> A mail is sent
+> A WhatsApp message is sent
+
+When it recognizes the second face,
+> EC2 instance in AWS is created through CLI. 
+> Create 5 GB EBS volume and attach it to the instance. 
