@@ -2,7 +2,7 @@ Task 06:
 
 Create a program that performs below mentioned tasks upon recognizing a particular face. 
 
-When it recognize a person's face, then - 
+When it recognizes a person's face, then - 
 > A mail is sent
 > A WhatsApp message is sent
 
