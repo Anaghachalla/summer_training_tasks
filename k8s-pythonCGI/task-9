@@ -1,0 +1,5 @@
+Task 9: Kubernetes Integration with Python-CGI
+Task Description:
+
+>Create a webUI through which kubernetes commands can be run. 
+>The user types in what he wants to do using normal english conversation, based on which the relevant command should run in the background. 
